@@ -2,16 +2,16 @@
 This repo houses code snippet and notes of my on going study of machine learning
 
 ### Libraries used
-- Scikit-Learn
-- Numpy
-- Panda
-- Matplotlib
+- [Scikit-Learn](http://scikit-learn.org/stable/)
+- [Numpy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [Matplotlib](http://matplotlib.org/)
 
 ### Language used
-- Python 3.5
+- [Python 3.5](https://www.python.org/downloads/release/python-350/)
 
 ### Tools
-- Jupyter Notebook
+- [Jupyter Notebook](http://jupyter.org/)
 
 ### Resources
 - [Andrew Ng class](https://www.coursera.org/learn/machine-learning)
